@@ -42,7 +42,5 @@ request.onload = () => {
         _tr.appendChild(_td);
         
     }
-
 }
 request.send();
-
